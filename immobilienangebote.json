@@ -1,0 +1,58 @@
+{
+    "global_percentage": 3.0,
+    "global_equity": 60000,
+    "properties": [
+        {
+            "id": 1,
+            "location": "Elchingen",
+            "art": "DHH",
+            "size": 138,
+            "Grundstueck": 344,
+            "kwh": 152,
+            "baujahr": 1972,
+            "price1": 349000,
+            "date1": "2023-11-23",
+            "price2": 390000,
+            "date2": "2023-09-05",
+            "link": "https://www.immobilienscout24.de/expose/145783130?referrer=RESULT_LIST_LISTING&searchId=6a5ffaf6-c8bf-3b4e-bb91-79173dda5ba3&searchType=district#/"
+        },
+        {
+            "id": 2,
+            "location": "Elchingen",
+            "art": "Haus",
+            "size": 171,
+            "Grundstueck": 835,
+            "kwh": 152,
+            "baujahr": 1971,
+            "price1": 374900,
+            "date1": "2023-11-07",
+            "price2": 399900,
+            "date2": "2023-10-04",
+            "link": "https://www.immobilienscout24.de/expose/146091985?referrer=RESULT_LIST_LISTING&searchId=b0d7e43f-c6ae-3a98-b3d1-b6fcda95793e&searchType=district#/"
+        },
+        {
+            "id": 3,
+            "location": "Elchingen",
+            "art": "MFH 4",
+            "size": 290,
+            "Grundstueck": 588,
+            "kwh": 260,
+            "baujahr": 1960,
+            "price1": 595000,
+            "date1": "2023-10-23",
+            "link": "https://www.immobilienscout24.de/expose/147016457?referrer=RESULT_LIST_LISTING&searchId=b0d7e43f-c6ae-3a98-b3d1-b6fcda95793e&searchType=district#/"
+        },
+        {
+            "id": 4,
+            "location": "Elchingen",
+            "art": "Haus",
+            "size": 174,
+            "Grundstueck": 824,
+            "kwh": 204,
+            "baujahr": 1970,
+            "price1": 470000,
+            "date1": "2023-11-06",
+            "link": "https://www.immobilienscout24.de/expose/147261843?referrer=RESULT_LIST_LISTING&searchId=b0d7e43f-c6ae-3a98-b3d1-b6fcda95793e&searchType=district#/"
+        }
+    ]
+}

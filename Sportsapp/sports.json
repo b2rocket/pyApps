@@ -1,0 +1,27 @@
+[
+    {
+        "nummer": 1,
+        "name": "Laufen",
+        "anzahlWiederholungen": 10
+    },
+    {
+        "nummer": 2,
+        "name": "Schwimmen",
+        "anzahlWiederholungen": 20
+    },
+    {
+        "nummer": 3,
+        "name": "Radfahren",
+        "anzahlWiederholungen": 15
+    },
+    {
+        "nummer": 4,
+        "name": "Krafttraining",
+        "anzahlWiederholungen": 12
+    },
+    {
+        "nummer": 5,
+        "name": "Yoga",
+        "anzahlWiederholungen": 5
+    }
+]
